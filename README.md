@@ -4,7 +4,7 @@
 The codes presented here were developed for the XAI'26 conference paper. To execute the methods, a Huggingfaces account is required in order to access the models and the job datasets. It is recommend use the conda enviroment presented here: https://kgtk.readthedocs.io/en/latest/install/ and install the requirements.txt.
 
 The repository is separated in 3 parts:
-- Code: The mapping process between the data and the knowledge graph
+- Coactivation Graph - Knowledge Graph mapping: The mapping scripts between the data and the knowledge graph
 - Inference Coactivation: Model's output and coactivation graph development
 - Taxo Onto: Process to build the knowledge graph from a taxonomy
 
