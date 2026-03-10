@@ -1,4 +1,4 @@
-# Towards Unveiling the Black Box of LLMs: Understanding Skill Inference through Co-Activation and Knowledge Graphs
+# Understanding the LLM Black Box: Leveraging Co-Activation and Knowledge Graph for Transparent Skill Inference
 
 ## General Aspects
 The codes presented here were developed for the XAI'26 conference paper. To execute the methods, a Huggingfaces account is required in order to access the models and the job datasets. It is recommend use the conda enviroment presented here: https://kgtk.readthedocs.io/en/latest/install/ and install the requirements.txt.
